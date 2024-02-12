@@ -57,19 +57,19 @@ const Service: NextPage = () => {
                         </div>
                         {/* Service Item 5 End */}
                         {/* Service Item 6: SEO Optimization */}
-                        <div className="service-item padd-15">
-                            <div className="service-item-inner">
-                                <div className="icon"><i className="fa fa-image"></i></div>
-                                <h4>SEO Optimization</h4>
-                                <p>Boost your online visibility and drive organic traffic to your website with our SEO
-                                    optimization
-                                    services.
-                                    Our experts employ proven strategies to improve your search engine rankings and grow
-                                    your online
-                                    presence.
-                                </p>
-                            </div>
-                        </div>
+                        {/*<div className="service-item padd-15">*/}
+                        {/*    <div className="service-item-inner">*/}
+                        {/*        <div className="icon"><i className="fa fa-image"></i></div>*/}
+                        {/*        <h4>SEO Optimization</h4>*/}
+                        {/*        <p>Boost your online visibility and drive organic traffic to your website with our SEO*/}
+                        {/*            optimization*/}
+                        {/*            services.*/}
+                        {/*            Our experts employ proven strategies to improve your search engine rankings and grow*/}
+                        {/*            your online*/}
+                        {/*            presence.*/}
+                        {/*        </p>*/}
+                        {/*    </div>*/}
+                        {/*</div>*/}
                         {/* Service Item 6 End */}
                     </div>
                 </div>
